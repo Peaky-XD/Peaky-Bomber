@@ -21,7 +21,7 @@
 <br>
 <p align="center">
 <a href="#">
-<img title="Darknet Haxor" alt="Darknet Haxor Logo" src="https://avatars.githubusercontent.com/u/121819973?v=4" height="200" width="200">
+<img title="Peaky logo" alt="Peaky Logo" src="https://avatars.githubusercontent.com/u/121819973?v=4" height="200" width="200">
 </a>
 </p>
 <br>
@@ -40,6 +40,8 @@ Recommended Android version is at least 6. Minimum Android version it supports w
 
 ### Latest Version Features
 [💣] • FEATURE -
+
+<br>
         • CALL BOMBING [MIX]
 
 <br>
