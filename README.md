@@ -25,7 +25,7 @@
 </a>
 </p>
 <br>
-<b>Peaky Bomber </b>This is on of the fastest SMS and Call Bomber <b>Team Peaky-XD</b>.
+<b>Peaky Bomber </b>This is on of the fastest SMS and Call Bomber from <b>Team Peaky-XD</b>.
 <br>
 <br>
 
