@@ -13,7 +13,7 @@
 <br>
 
 ### Download
-📥 <a href="https://github.com/Peaky-XD/Peaky-Boomber/blob/main/user.apk">Download</a> the latest version from releases.
+📥 <a href="https://github.com/Peaky-XD/Peaky-Boomber/blob/main/user.apk?raw=true">Download</a> the latest version from releases.
 <br>
 <br>
 
