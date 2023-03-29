@@ -17,9 +17,6 @@
 <br>
 <br>
 
-### Watch our official video by <a href="https://github.com/Peaky-XD/">Team Peaky-XD</a>
-[![Watch the video](https://img.youtube.com/vi/tR2fyFzPn3k/hqdefault.jpg)](https://youtu.be/tR2fyFzPn3k)
-
 ### About Peaky Bomber
 <br>
 <p align="center">
@@ -44,8 +41,14 @@ Recommended Android version is at least 6. Minimum Android version it supports w
 ### Latest Version Features
 [💣] • FEATURE -
         • CALL BOMBING [MIX]
+
+<br>
         • SMS BOMBING  [MIX]
+
+<br>
         • LOGIN SYSTEM 
+
+<br>
         • CUSTOM SMS [COMING SOON]
 <br>
 <br>
