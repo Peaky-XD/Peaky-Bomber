@@ -22,7 +22,7 @@
 <br>
 <p align="center">
 <a href="#">
-<img title="Peaky Bomber" alt="Peaky Logo" src="https://avatars.githubusercontent.com/u/121819973?v=4" height="200" width="200">
+<img title="Peaky Bomber" alt="Peaky Logo" src="https://github.com/Peaky-XD/Peaky-Boomber/blob/main/Picsart_23-04-23_08-16-40-862.png?raw=true" height="200" width="200">
 </a>
 </p>
 <br>
