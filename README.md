@@ -13,23 +13,23 @@
 <br>
 
 ### Download
-📥 <a href="https://github.com/Peaky-XD/Peaky-Boomber/blob/main/user.apk?raw=true">Download</a> the latest version from releases.
+📥 <a href="https://github.com/darknethaxor/DH-HackBar/releases">Download</a> the latest version from releases.
 <br>
 <br>
 
+### Watch our official video by <a href="https://www.facebook.com/peaky009">Team Peaky-XD</a>
 ### About Peaky Bomber
 <br>
 <p align="center">
 <a href="#">
-<img title="Peaky logo" alt="Peaky Logo" src="https://avatars.githubusercontent.com/u/121819973?v=4" height="200" width="200">
+<img title="Peaky Bomber" alt="Peaky Logo" src="https://avatars.githubusercontent.com/u/121819973?v=4" height="200" width="200">
 </a>
 </p>
 <br>
-<b>Peaky Bomber </b>This is on of the fastest SMS and Call Bomber from <b>Team Peaky-XD</b>.
+<b>Peaky Bomber </b>This is on of the fastest SMS and Call Bomber <b>Team Peaky-XD</b>.
 <br>
 <br>
-
-### Device Requirements
+<b>Device Requirements</b>
 
 Recommended Android version is at least 6. Minimum Android version it supports well is 5.
 <br>
@@ -39,19 +39,16 @@ Recommended Android version is at least 6. Minimum Android version it supports w
 <br>
 
 ### Latest Version Features
+<br>
 [💣] • FEATURE -
-
 <br>
-        • CALL BOMBING [MIX]
-
+        • CALL BOMBING 
 <br>
-        • SMS BOMBING  [MIX]
-
+        • SMS BOMBING 
 <br>
         • LOGIN SYSTEM 
-
 <br>
-        • CUSTOM SMS [COMING SOON]
+        • CUSTOM SMS
 <br>
 <br>
 
@@ -63,6 +60,9 @@ Recommended Android version is at least 6. Minimum Android version it supports w
 ### Also Thanks To
 
 We are really thankful to all the members of Team Peaky-XD. Their love and support have always inspired us to do great things. Thanks again, dear brothers!
+<br>
+Specially Thanks to Imran Hossain To Develop This type of Interesting Application 🖤
+<br>
 <br>
 <br>
 
