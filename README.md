@@ -48,9 +48,6 @@ Recommended Android version is at least 6. Minimum Android version it supports w
 <br>
         • LOGIN SYSTEM 
 <br>
-        • CUSTOM SMS
-<br>
-<br>
 
 
 <b>NOTE:</b> Peaky Bomber is not an modified application. It's development was started as a fully blank project by the developers of <b>Team Peaky-XD</b>.
